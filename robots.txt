@@ -1,0 +1,9 @@
+# Robots.txt for Hakuna TV
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://hakuna4ktv.shop/sitemap.xml

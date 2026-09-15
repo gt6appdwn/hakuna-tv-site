@@ -1,0 +1,27 @@
+{
+  "name": "Hakuna TV",
+  "short_name": "Hakuna",
+  "description": "Ultra-Stable 4K IPTV Service with 55,000+ Live Channels & 200,000+ VOD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

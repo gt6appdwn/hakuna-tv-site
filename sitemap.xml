@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- Homepage -->
+    <url>
+        <loc>https://hakuna4ktv.shop/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Guides & Knowledge Base -->
+    <url>
+        <loc>https://hakuna4ktv.shop/guides.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Support & Contact (High Trust Signal) -->
+    <url>
+        <loc>https://hakuna4ktv.shop/contact.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 7-Day Money-Back Guarantee & Refund Policy -->
+    <url>
+        <loc>https://hakuna4ktv.shop/refund-policy.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Privacy Policy (Google E-E-A-T & Ads Required) -->
+    <url>
+        <loc>https://hakuna4ktv.shop/privacy-policy.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Terms of Service -->
+    <url>
+        <loc>https://hakuna4ktv.shop/terms.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- DMCA Copyright Notice -->
+    <url>
+        <loc>https://hakuna4ktv.shop/dmca.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+</urlset>
